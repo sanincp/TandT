@@ -1637,7 +1637,7 @@ _______________________________________________________*/
   display: inline-block;
   font-size: 38px;
   font-weight: 700;
-  padding: 15px 10px 15px 65px;
+  padding: 15px 10px 15px 15px;
   margin-top: 30px;
   background-image: url(../images/online-call.png);
   background-position: 10px;
@@ -1730,7 +1730,7 @@ _______________________________________________________*/
 }
 .chef-box .chef-ct {
   font-size: 14px;
-  color: #999999;
+  color: #303030;
   transition: all 400ms ease;
 }
 .chef-box:hover .chef-ct {
