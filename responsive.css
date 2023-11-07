@@ -234,7 +234,7 @@
 	// Home Page //----------------------------
 	________________________________________________________*/
 	.menu-width {max-width: 0 !important; padding: 0;}
-	#menu { background: #fd9d3e; border-bottom: 0 none; bottom: 0; box-shadow: 0 0 1px rgba(0, 0, 0, 0.2); display: inline-block !important; height: 100% !important; left: -100%; margin: 0 !important; position: fixed !important; top: 74px !important; width: 100%; z-index: 2; transition: all 0.4s ease 0s; -moz-transition: all 0.4s ease 0s; -webkit-transition: all 0.4s ease 0s; -o-transition: all 0.4s ease 0s; overflow-y: auto !important; overflow-x: hidden !important; padding-right: 0;}
+	#menu { background: #c48e14; border-bottom: 0 none; bottom: 0; box-shadow: 0 0 1px rgba(0, 0, 0, 0.2); display: inline-block !important; height: 100% !important; left: -100%; margin: 0 !important; position: fixed !important; top: 74px !important; width: 100%; z-index: 2; transition: all 0.4s ease 0s; -moz-transition: all 0.4s ease 0s; -webkit-transition: all 0.4s ease 0s; -o-transition: all 0.4s ease 0s; overflow-y: auto !important; overflow-x: hidden !important; padding-right: 0;}
 	#menu.show, #menu.menu-open {left: 0;}
 	.navbar-collapse {padding: 0px 15px 0 0;}
 	.navbar-collapse > ul {margin: 0 auto; width: 100%; display: block; max-width: 690px;padding-top: 20px;padding-bottom: 90px;}
@@ -492,8 +492,8 @@
 	.banner-headding {font-size: 50px;}
 	.owl-dots {position: absolute; bottom: 25px; left: 50%; transform: translate(-50%);}
 	.banner .owl-dots {position: absolute; bottom: 25px; left: 15px; width: 12px; transform: unset;}
-	.banner button.owl-dot.active{background: #fd9d3e;}
-	.banner button.owl-dot{width: 12px; height: 12px; border: 2px solid #fd9d3e; margin: 0px 0px;}
+	.banner button.owl-dot.active{background: #c48e14;}
+	.banner button.owl-dot{width: 12px; height: 12px; border: 2px solid #c48e14; margin: 0px 0px;}
 	.banner-sub-hed {letter-spacing: 2px;}
 	.banner {min-height: 400px;}
 	.banner .owl-item {min-height: 400px;}
@@ -550,8 +550,8 @@
 	.menu-bottom-bg {bottom: -35px;}
 	.about-pizzon .online-des{padding-top: 15px;}
 	.chef .owl-dots{text-align: center; position: relative; top: 10px;}
-	.chef button.owl-dot{width: 10px; height: 10px; border: 2px solid #fd9d3e; border-radius: 100%; margin: 0px 5px; transition: all 400ms ease;}
-	.chef button.owl-dot.active{background: #fd9d3e;}
+	.chef button.owl-dot{width: 10px; height: 10px; border: 2px solid #121619; border-radius: 100%; margin: 0px 5px; transition: all 400ms ease;}
+	.chef button.owl-dot.active{background: #121619;}
 	.chef-box .chef-img{max-height: unset;}
 	.chef-box .chef-name{font-size: 18px; line-height: 16px; padding-top: 16px;}
 	.customer-top-bg {top: -27px;}
